@@ -108,7 +108,7 @@ services:
 
 并且在后台的控制台上打印了消费的消息。
 
-[![cfXcQg.png](https://z3.ax1x.com/2021/04/16/cfXcQg.png)](https://imgtu.com/i/cfXcQg)
+[![cfXcQg.png](https://z3.ax1x.com/2021/04/16/cfXcQg.png)]
 
 至此，单机的kafka环境就搭建完毕了。
 
