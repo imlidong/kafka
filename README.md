@@ -96,7 +96,7 @@ services:
 
 整合测试的内容可以参考文章
 
-[https://www.cnblogs.com/toutou/p/springboot_kafka.html]: 
+https://www.cnblogs.com/toutou/p/springboot_kafka.html
 
 在启动springboot的后台服务之后，进行测试。
 
