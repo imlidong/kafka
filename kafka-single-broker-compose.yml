@@ -1,9 +1,9 @@
 version: '2'
 services:
   zookeeper:
-    image: wurstmeister/zookeeper
+    image: wurstmeister/zookeeper    # 镜像
     ports:
-      - "2181:2181"
+      - "2181:2181"    # 端口映射
   kafka:
     image: wurstmeister/kafka
     ports:
